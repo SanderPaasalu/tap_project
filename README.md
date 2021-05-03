@@ -7,7 +7,7 @@
  To get started with this project you need to copy it. Make sure you have some sort of local database installed(I used phpmyadmin it should work, others might not) and local server host with a mysql server(I used xampp).
 
 Once you have project, local database and server you need to make sure you have a database and then configure the constants config so the porject can connect to localhost.
-
+If you rename the project you need to change the HTACCESS Rewritebase.
 
 
 
